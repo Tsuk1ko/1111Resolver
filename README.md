@@ -1,2 +1,3 @@
-# cfworker-telegraf-template
- A template for Telegram Bot using Telegraf Framework on Cloudflare Workers
+# 1111Resolver
+
+DNS over Telegram, deploy on Cloudflare Workers.
